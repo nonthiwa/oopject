@@ -12,6 +12,6 @@ package com.mycompany.non3;
 public class Non3 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("non smart!");
     }
 }
